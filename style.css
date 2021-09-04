@@ -1,0 +1,12 @@
+
+body{
+    background-size: 2000px;
+  
+}
+canvas{
+    border-radius: 30px;
+    border: 2px solid white;
+}
+#object_name{
+    width: 660px;
+}
